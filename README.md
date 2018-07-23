@@ -2,7 +2,7 @@
 
 ## Part I
 #### Requirements
-node.js (tested on version 8.12)
+node.js (tested on version 8.11.2)
 
 #### Installation
 none (no dependencies)
