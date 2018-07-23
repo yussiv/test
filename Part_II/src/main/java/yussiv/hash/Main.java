@@ -1,6 +1,8 @@
+package yussiv.hash;
+
 import static spark.Spark.post;
 
-import domain.Text;
+import yussiv.hash.domain.Text;
 import spark.Request;
 import spark.Response;
 

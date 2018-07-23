@@ -1,10 +1,11 @@
+package yussiv.hash;
 
 import com.google.common.base.Charsets;
 import com.google.common.hash.Hashing;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
-import domain.Hash;
-import domain.Text;
+import yussiv.hash.domain.Hash;
+import yussiv.hash.domain.Text;
 
 public class HashUtil {
     public static Text parseJSON(String json) throws JsonSyntaxException {

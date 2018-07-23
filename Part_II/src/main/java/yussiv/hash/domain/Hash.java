@@ -1,4 +1,4 @@
-package domain;
+package yussiv.hash.domain;
 
 public class Hash {
     private final String hash;

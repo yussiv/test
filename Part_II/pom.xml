@@ -29,7 +29,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>Main</mainClass>
+                    <mainClass>yussiv.hash.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>
