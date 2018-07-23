@@ -18,4 +18,4 @@ You can either supply the string as a command line parameter or run the script w
 Java 8, Maven
 
 #### Usage
-Running `mvn install exec:java` will start a server listening for POST requests at http://localhost:4567
+Running `mvn install exec:java` will start a server listening for POST requests at http://localhost:4567/hash
